@@ -1,6 +1,6 @@
 import { ReactComponent as Logo } from './logo.svg';
 
-function StepsHeader(){
+function StepsHeader() {
     return (
         <header className="orders-steps-container">
             <div className="orders-steps-content">
